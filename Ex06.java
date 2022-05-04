@@ -1,4 +1,4 @@
-package cursoJavaBasicoLoraine.aula20.labs;
+package cursoJavaBasicoLoiane.aula20.labs;
 
 import java.util.Scanner;
 
